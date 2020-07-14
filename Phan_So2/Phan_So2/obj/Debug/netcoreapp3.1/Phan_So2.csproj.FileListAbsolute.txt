@@ -1,0 +1,13 @@
+C:\Users\Cech5\source\repos\Phan_So2\Phan_So2\bin\Debug\netcoreapp3.1\Phan_So2.exe
+C:\Users\Cech5\source\repos\Phan_So2\Phan_So2\bin\Debug\netcoreapp3.1\Phan_So2.deps.json
+C:\Users\Cech5\source\repos\Phan_So2\Phan_So2\bin\Debug\netcoreapp3.1\Phan_So2.runtimeconfig.json
+C:\Users\Cech5\source\repos\Phan_So2\Phan_So2\bin\Debug\netcoreapp3.1\Phan_So2.runtimeconfig.dev.json
+C:\Users\Cech5\source\repos\Phan_So2\Phan_So2\bin\Debug\netcoreapp3.1\Phan_So2.dll
+C:\Users\Cech5\source\repos\Phan_So2\Phan_So2\bin\Debug\netcoreapp3.1\Phan_So2.pdb
+C:\Users\Cech5\source\repos\Phan_So2\Phan_So2\obj\Debug\netcoreapp3.1\Phan_So2.csprojAssemblyReference.cache
+C:\Users\Cech5\source\repos\Phan_So2\Phan_So2\obj\Debug\netcoreapp3.1\Phan_So2.AssemblyInfoInputs.cache
+C:\Users\Cech5\source\repos\Phan_So2\Phan_So2\obj\Debug\netcoreapp3.1\Phan_So2.AssemblyInfo.cs
+C:\Users\Cech5\source\repos\Phan_So2\Phan_So2\obj\Debug\netcoreapp3.1\Phan_So2.csproj.CoreCompileInputs.cache
+C:\Users\Cech5\source\repos\Phan_So2\Phan_So2\obj\Debug\netcoreapp3.1\Phan_So2.dll
+C:\Users\Cech5\source\repos\Phan_So2\Phan_So2\obj\Debug\netcoreapp3.1\Phan_So2.pdb
+C:\Users\Cech5\source\repos\Phan_So2\Phan_So2\obj\Debug\netcoreapp3.1\Phan_So2.genruntimeconfig.cache
